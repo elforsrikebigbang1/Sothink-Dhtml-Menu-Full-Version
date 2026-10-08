@@ -242,4 +242,4 @@ This repository serves as the official landing page for Sothink DHTML Menu. The 
 **Get the most recent version of Sothink DHTML Menu today!**
 
 ---
-**Last updated:** 2026-10-08 08:36:41 UTC
+**Last updated:** 2026-10-08 16:13:21 UTC
